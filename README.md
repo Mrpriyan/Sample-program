@@ -1,5 +1,6 @@
 # Sample-program 1
 \# competitive easy programming question
+```cpp
 #include <iostream>
 using namespace std;
 
