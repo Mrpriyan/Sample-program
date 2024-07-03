@@ -1,6 +1,7 @@
-# Sample-program 1
-\# competitive easy programming question
+# Sample-programs
+\# competitive easy programming questions
 ```cpp
+# Sample program 1
 #include <iostream>
 using namespace std;
 
@@ -24,7 +25,6 @@ int main() {
 \# OUTPUT
 Enter the string: S4G7
 SSSSGGGGGGG
----
 
 # Sample-program 2
 \# Program to reverse vowels in a given string
