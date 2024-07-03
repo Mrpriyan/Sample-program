@@ -24,7 +24,7 @@ int main() {
 \# OUTPUT
 Enter the string: S4G7
 SSSSGGGGGGG
-
+```cpp
 
 # Sample-program 2
 \# Program to reverse vowels in a given string
